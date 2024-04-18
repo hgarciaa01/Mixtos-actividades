@@ -1,4 +1,4 @@
-## listar Compute Engine	gcloud compute instances list 	  https://cloud.google.com/sdk/gcloud/reference/compute/instances/list
-## listar ips        	gcloud compute addresses list 	  https://cloud.google.com/sdk/gcloud/reference/compute/addresses/list  
-## listar buckets    	gsutil ls gs://bucket		  https://cloud.google.com/storage/docs/gsutil/commands/ls		
-## Listar Service Accounts	gcloud iam service-accounts list  https://cloud.google.com/sdk/gcloud/reference/iam/service-accounts/list
+## listar Compute Engine:	_gcloud compute instances list_ 	  https://cloud.google.com/sdk/gcloud/reference/compute/instances/list
+## listar ips:        	_gcloud compute addresses list_ 	  https://cloud.google.com/sdk/gcloud/reference/compute/addresses/list  
+## listar buckets:    	_gsutil ls gs://bucket_		  https://cloud.google.com/storage/docs/gsutil/commands/ls		
+## Listar Service Accounts:	_gcloud iam service-accounts list_  https://cloud.google.com/sdk/gcloud/reference/iam/service-accounts/list
